@@ -1,1 +1,5 @@
-# befund
+BFDChain is a public chain based on blockchain technology, it offers business and technology solutions based on blockchain technology to create crypto currency mutual fund; We create BFDChain Token (BFDT) which can both be a prove of right and a currency within our BFDChain.
+
+Befund Foundation is a Singapore-based non-profit organization. It creates crypto currency mother funds and offers support to excellent GPs and blockchain applications within BFDChain by funding them with BFDT. Befund.io is the online service platform of Befund Foundation, it offers basic solutions and resources for building crypto currency mutual fund, users can easily create its own crypto currency mutual fund on the cloud platform of befund.io and all the information of the mutual fund will be encrypted and saved on BFDChain. 
+
+As the market capitalization of crypto currency keep raising, high-net worth groups are getting bigger and bigger in the crypto currency market. It’s fair to say appreciation or keeping the value of their crypto wealth will become a solid demand in the near future. We started our journey on crypto currency mutual fund and eventually will complete our financial ecology of crypto currency.
